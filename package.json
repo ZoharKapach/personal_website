@@ -1,0 +1,24 @@
+{
+  "name": "zoharkapach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "zoharkapach",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "antd": "^4.21.0",
+    "bootstrap": "^5.1.3",
+    "gatsby": "^4.16.0",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.1.0"
+  }
+}

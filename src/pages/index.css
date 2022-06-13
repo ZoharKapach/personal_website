@@ -1,0 +1,26 @@
+
+
+/* [id ^=jobs]:active {
+  background-color: #ffb703 !important;
+
+} */
+[id ^=jobs].nav-link {
+  color:#ffb703 !important;
+}
+
+[id ^=jobs].nav-link.active {
+    color: #0A192F !important;
+    background-color: #ffb703 !important;
+}
+
+#atcompany {
+  color: #ffb703;
+}
+
+li {
+  list-style-type: "▹";
+  padding-inline-start: 1.5ch;
+}
+li::marker {
+  color: #ffb703;
+}
